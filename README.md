@@ -2,7 +2,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/9207cd9b-e0ca-4b15-bb6a-6ad0a31854f8.svg)](https://wakatime.com/@9207cd9b-e0ca-4b15-bb6a-6ad0a31854f8)
   
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mijeong)](https://github.com/Jeong8333/github-readme-stats)
+[![Mijeong's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mijeong)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeong8333&layout=compact)  
 </div>
 <br>
