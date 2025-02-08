@@ -51,6 +51,3 @@ Unknown Editor           15 mins             ██░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
