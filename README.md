@@ -11,7 +11,7 @@
 
 
 <!--START_SECTION:waka-->
-[![Mijeong's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mijeong)](https://github.com/anuraghazra/github-readme-stats)
+[![Mijeong's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mijeong)](https://github.com/Jeong8333/github-readme-stats)
 
   <!--END_SECTION:waka-->
 
