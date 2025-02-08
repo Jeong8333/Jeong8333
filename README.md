@@ -7,12 +7,9 @@
 
 ---
 <div align="left" >Study Time
-<img src= [(https://github-readme-stats.vercel.app/api/wakatime?Jeong8333=ffflabs)](https://github.com/Jeong8333/github-readme-stats)></div>
-
-
+<img src= [(https://github-readme-stats.vercel.app/api/wakatime?Jeong8333=ffflabs)]>
 <!--START_SECTION:waka-->
-[![Mijeong's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mijeong)](https://github.com/Jeong8333/github-readme-stats)
-
+[![Mijeong's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mijeong)]
   <!--END_SECTION:waka-->
 
 ---
