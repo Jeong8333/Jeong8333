@@ -7,9 +7,9 @@
 
 ---
 <div align="left" >Study Time
-<img src= [(https://github-readme-stats.vercel.app/api/wakatime?Jeong8333=ffflabs)]>
+
 <!--START_SECTION:waka-->
-[![Mijeong's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mijeong)]
+![Mijeong's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mijeong)
   <!--END_SECTION:waka-->
 
 ---
