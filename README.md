@@ -9,11 +9,5 @@
 
 
 <!--START_SECTION:waka-->
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/Jeong8333/Jeong8333/main/assets/bar_graph.png)
-
-
- Last Updated on 15/02/2025 15:27:14 UTC
 <!--END_SECTION:waka-->
 
