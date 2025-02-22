@@ -49,6 +49,6 @@ VS Code                  21 mins             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Jeong8333/Jeong8333/main/assets/bar_graph.png)
 
 
- Last Updated on 21/02/2025 15:30:59 UTC
+ Last Updated on 22/02/2025 15:13:00 UTC
 <!--END_SECTION:waka-->
 
