@@ -32,21 +32,5 @@ Sunday                   21 commits          ████░░░░░░░�
 ```
 
 
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-HTML                     2 mins              █████████████████████████   100.00 % 
-
-🔥 Editors: 
-VS Code                  2 mins              █████████████████████████   100.00 % 
-```
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/Jeong8333/Jeong8333/main/assets/bar_graph.png)
-
-
- Last Updated on 01/03/2025 15:13:52 UTC
 <!--END_SECTION:waka-->
 
