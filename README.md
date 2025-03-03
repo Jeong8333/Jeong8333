@@ -9,7 +9,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%20hrs%2058%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -36,10 +36,11 @@ Sunday                   23 commits          ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-HTML                     2 mins              █████████████████████████   100.00 % 
+HTML                     23 mins             █████████████████████████   98.68 % 
+Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
 
 🔥 Editors: 
-VS Code                  2 mins              █████████████████████████   100.00 % 
+VS Code                  23 mins             █████████████████████████   100.00 % 
 ```
 
 **Timeline**
@@ -47,6 +48,6 @@ VS Code                  2 mins              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/Jeong8333/Jeong8333/main/assets/bar_graph.png)
 
 
- Last Updated on 02/03/2025 15:14:17 UTC
+ Last Updated on 03/03/2025 15:16:32 UTC
 <!--END_SECTION:waka-->
 
