@@ -30,13 +30,5 @@ Friday                   34 commits          █████░░░░░░�
 Saturday                 29 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
 Sunday                   23 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
 ```
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/Jeong8333/Jeong8333/main/assets/bar_graph.png)
-
-
- Last Updated on 11/03/2025 15:17:24 UTC
 <!--END_SECTION:waka-->
 
