@@ -9,7 +9,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-8%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-8%20hrs%2047%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -37,6 +37,6 @@ Sunday                   25 commits          ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Jeong8333/Jeong8333/main/assets/bar_graph.png)
 
 
- Last Updated on 23/03/2025 15:15:15 UTC
+ Last Updated on 24/03/2025 15:17:28 UTC
 <!--END_SECTION:waka-->
 
